@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+            "id": 2,
+            "name": "Denis",
+            "surname": "Bosih",
+            "photo_url": "bily.jpeg",
+            "balance": 300
+        }
     ]
 }
