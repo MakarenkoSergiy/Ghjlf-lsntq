@@ -31,7 +31,15 @@
      
     ],
     "products": [
+        {
+            "id": 2,
+            "name": "Bily",
+            "description": "black monkeys and babans",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": "bily.jpeg"
 
+        }
     ] 
     
 }
