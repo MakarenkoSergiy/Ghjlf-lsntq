@@ -31,7 +31,14 @@
      
     ],
     "products": [
-
+        {
+        "id": 1,
+        "name": "MULAT",
+        "description": "Trump",
+        "price": 160,
+        "authot_id": 1,
+        "photo_url": ""
+}
     ] 
     
 }
