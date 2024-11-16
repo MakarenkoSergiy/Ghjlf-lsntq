@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "users":[
        {
         "id": "4",
@@ -7,5 +8,15 @@
         "photo_url": "https://storage.googleapis.com/rep-storage/avatars/634fd5f3aecbff34f789bc67/1688238037258/big_avatar.png", 
         "balance": "40"
        } 
+=======
+    "users": [
+        {
+            "id": 1,
+            "name": "Donald",
+            "surname": "Trump",
+            "photo_url": "https://i.ytimg.com/vi/dnDvbZ94ZmU/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBI-ZABM9_9QPmJsMowU1jpB1mTaQ",
+            "balance": 1000000000
+        }
+>>>>>>> 54d847ab38602ce72b88a861f477f2486a90710c
     ]
 }
