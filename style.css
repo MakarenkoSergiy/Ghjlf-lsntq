@@ -6,62 +6,55 @@ body {
     color: #333;
 }
 
+
 header {
-    background-color: #000000;
-    color: white;
-    padding: 20px 0;
+    background-color: #ffcc00;
+    padding: 30px 20px;
     text-align: center;
+    color: #fff;
 }
 
 header h1 {
-    margin: 0;
+    font-size: 3em;
+    margin-bottom: 10px;
 }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+header p {
+    font-size: 1.2em;
 }
 
 .about {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-bottom: 40px;
-}
-
-.about img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    flex: 1 1 40%;
-}
-
-.about-text {
-    flex: 1 1 55%;
-    margin-left: 20px;
-}
-
-.about-text h2 {
-    margin-top: 0;
-}
-
-.contacts {
-    background-color: #e6e6e6;
-    padding: 20px;
-    border-radius: 10px;
-}
-
-.contacts h3 {
-    margin-top: 0;
-}
-
-footer {
+    padding: 40px 20px;
     text-align: center;
-    padding: 10px;
-    background-color: #000000;
-    color: white;
-    margin-top: 20px;
+}
+
+.about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.happy-img {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.activities {
+    background-color: #ffedc2;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.activities h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
 @media (max-width: 768px) {
