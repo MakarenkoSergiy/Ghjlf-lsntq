@@ -54,7 +54,7 @@
         "name": "MULAT",
         "description": "Trump",
         "price": 160,
-        "authot_id": 1,
+        "author_id": 1,
         "photo_url": ""
 },
 {
@@ -62,7 +62,7 @@
         "name": "MULAT",
         "description": "Biden",
         "price": 160,
-        "authot_id": 3,
+        "author_id": 3,
         "photo_url": ""
 }
     ] 
